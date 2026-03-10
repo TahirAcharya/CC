@@ -15,8 +15,7 @@ This repository contains **lecture slides, unit tests, reference materials, and 
 ## 📝 Assessments
 
 ### Unit Test 1
-📄 Question Paper / Study Material  
-🔗 https://docs.google.com/document/d/1p6pQtW5VUVP47Wkvjd1NQohrPNK6GPTe/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true
+📄 [Question Paper ](https://docs.google.com/document/d/1p6pQtW5VUVP47Wkvjd1NQohrPNK6GPTe/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 ---
 
@@ -26,8 +25,7 @@ This repository contains **lecture slides, unit tests, reference materials, and 
 
 Distributed object systems are an important concept in cloud and distributed computing.
 
-📖 Reference Slides  
-🔗 https://www.slideshare.net/slideshow/distributed-objects-components-of-corba/26253321
+📖 Reference Slides  [link](https://www.slideshare.net/slideshow/distributed-objects-components-of-corba/26253321)
 
 ---
 
