@@ -1,3 +1,5 @@
+make this readme unified and make sure to format according to module wise and dont add unrelated links from your side:
+
 # ☁️ Cloud Computing and Security (BIS613D)
 ### 6A & 6B AIML
 
@@ -285,4 +287,3 @@ Students can contribute by sharing sharing it via email:
 Assistant Professor  
 Department of Artificial Intelligence & Machine Learning  
 Acharya Institute of Technology
-
