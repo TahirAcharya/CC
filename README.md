@@ -8,7 +8,7 @@ This repository contains **lecture slides, unit tests, reference materials, and 
 ## 📑 Module Resources
 
 ### 📊 Module 1 – Distributed Systems & Enabling Technologies
-- 📂 **Lecture PPT:** [View Slides]( )
+- 📂 **Lecture PPT:** [View Slides](https://docs.google.com/presentation/d/1i9XCKPw3Qc1fl6xy_LOwOGPNYK-hdH70/edit?usp=sharing&ouid=102189640680844426038&rtpof=true&sd=true)
 
 ---
 
